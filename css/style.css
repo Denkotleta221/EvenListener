@@ -165,11 +165,10 @@ body {
   position: relative;
 }
 
-#ball {
+.ball {
   width: 100px;
   height: 100px;
   position: absolute;
-
   transition: .7s ease;
 }
 
